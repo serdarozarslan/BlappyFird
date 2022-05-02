@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13966, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: SampleScene
+  m_EditorClassIdentifier: 
+  templateScene: {fileID: 102900000, guid: 2cda990e2423bbf4892e6590ba056729, type: 3}
+  templateName: 
+  description: 
+  preview: {fileID: 0}
+  dependencies:
+  - dependency: {fileID: 7165804046397276411, guid: 39d92a283c98ade4ca9e18d2df932929, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: 8ac44b60f651ec4478716792c4529a11, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 8300000, guid: 6c56513de8460e84bba0ed216df2d456, type: 3}
+    instantiationMode: 1
+  - dependency: {fileID: 8300000, guid: e5ff5d10940f3c8468e25f5a6a662eef, type: 3}
+    instantiationMode: 1
+  - dependency: {fileID: 11400000, guid: 5302535af1044152a457ed104f1f4b91, type: 2}
+    instantiationMode: 1
+  - dependency: {fileID: 9100000, guid: f976e805216ee734cb963301bbb3d7cd, type: 2}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: ee148e281f3c41c5b4ff5f8a5afe5a6c, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 7400000, guid: e9ce3b95574dd8e4baee71ba7d4b4139, type: 2}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: 2fd6421f253b4ef1a19526541f9ffc0c, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 7400000, guid: a7697abba5664dc488339e6adc2b1a4e, type: 2}
+    instantiationMode: 0
+  - dependency: {fileID: 9100000, guid: 7a28c8140882cc24988208fcdf476384, type: 2}
+    instantiationMode: 0
+  - dependency: {fileID: 12800000, guid: 4beb055f07aaff244873dec698d0363e, type: 3}
+    instantiationMode: 1
+  - dependency: {fileID: 8300000, guid: f086fa9c003994b41aed9236966232d3, type: 3}
+    instantiationMode: 1
+  - dependency: {fileID: 8300000, guid: 80e91e5272ee17648af41adf10e1548c, type: 3}
+    instantiationMode: 1
+  templatePipeline: {fileID: 0}
+  addToDefaults: 0
